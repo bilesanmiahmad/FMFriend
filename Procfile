@@ -1,1 +1,1 @@
-web: gunicorn FMProject.wsgi --log-file
+web: gunicorn FMProject.wsgi
